@@ -3,6 +3,7 @@
 # 🤖 NexusNarrative
 ### Smart Multi-Agent Story Studio
 
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://agentic-story-studio.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.12%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.45.0-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
 [![UV](https://img.shields.io/badge/Package%20Manager-UV-blueviolet?style=for-the-badge)](https://github.com/astral-sh/uv)
@@ -14,9 +15,15 @@
   <b>A modern and interactive story maker that turns your words into fun stories using smart AI assistants.</b>
 </p>
 
-[Read The Full Specs](./specs.md) • [View Code](./mad_libs.py)
+🚀 **[Open Live Story Studio](https://agentic-story-studio.streamlit.app/)** • [Read The Full Specs](./specs.md) • [View Code](./mad_libs.py)
 
 </div>
+
+---
+
+> [!TIP]
+> 🌐 **Try it Live in your browser:** [https://agentic-story-studio.streamlit.app/](https://agentic-story-studio.streamlit.app/)  
+> No installation required! Experience the smart multi-agent story pipeline in action instantly.
 
 ---
 
@@ -71,19 +78,25 @@ graph LR
 
 ## 🚀 How To Run The Project
 
-### Step 1: Open Terminal
+### Option A: Try Online (Instant Access)
+Open the deployed cloud application in any browser:
+👉 **[agentic-story-studio.streamlit.app](https://agentic-story-studio.streamlit.app/)**
+
+### Option B: Run Locally with UV
+
+#### Step 1: Open Terminal
 Open your terminal inside this folder:
 ```bash
 cd "1_mad_libs"
 ```
 
-### Step 2: Run with UV (Fast & Automatic)
+#### Step 2: Run with UV (Fast & Automatic)
 Run this single command:
 ```bash
 uv run streamlit run mad_libs.py
 ```
 
-### Step 3: Enjoy!
+#### Step 3: Enjoy!
 The application will automatically open in your browser at:
 `http://localhost:8501`
 
@@ -103,6 +116,7 @@ The application will automatically open in your browser at:
 **Hadi Seelro**  
 *Agentic AI Developer & Software Engineer*  
 
+- 🌐 Live App: [agentic-story-studio.streamlit.app](https://agentic-story-studio.streamlit.app/)
 - 🌐 GitHub: [@SainBux-HadiSeelro](https://github.com/SainBux-HadiSeelro)
 - 🚀 Repository: [agentic-story-studio](https://github.com/SainBux-HadiSeelro/agentic-story-studio)
 - 💖 Made with Python 3.12 and Streamlit for the AI Developer Portfolio.
