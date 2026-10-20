@@ -1,0 +1,13 @@
+[project]
+name = "nexus-narrative"
+version = "2.0.0"
+description = "A smart multi-agent story generator built with Python and Streamlit"
+readme = "README.md"
+requires-python = ">=3.12"
+authors = [
+    { name = "Hadi Seelro" }
+]
+keywords = ["story-maker", "mad-libs", "streamlit", "ai-agents", "portfolio"]
+dependencies = [
+    "streamlit>=1.45.0",
+]
